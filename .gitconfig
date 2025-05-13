@@ -1,0 +1,4 @@
+[http]
+    postBuffer = 524288000  # 500 MB
+[core]
+    compression = 0  # Disable compression for smoother pushes
